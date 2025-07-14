@@ -1,1 +1,4 @@
 ﻿Chưa có Funtion nào cả Fix lỗi đi
+
+
+// Dạ đây là sau khi e fix hết lỗi và hoàng thiện
